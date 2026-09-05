@@ -1,0 +1,1 @@
+Please report command admission, argument confusion or help-integrity issues through [GitHub Private vulnerability reporting](https://github.com/secengcommons/cli/security/advisories/new). Include the command definition, arguments, expected result and a small non-sensitive reproduction
