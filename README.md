@@ -23,7 +23,7 @@ CLI defines explicit commands and optional root actions with standard Go flag fo
 go get github.com/secengcommons/cli
 ```
 
-Requires Go 1.24 or newer
+Requires Go 1.26 or newer
 
 ## Use
 ```go
