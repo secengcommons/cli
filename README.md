@@ -149,5 +149,5 @@ CLI parses arguments and renders help and diagnostics. The application owns comm
 ## Verification
 Run the complete local gate with:
 ```sh
-bash ./.github/scripts/verify.sh all
+go -C tools tool secverify --root .. all
 ```
